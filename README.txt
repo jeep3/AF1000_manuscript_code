@@ -1,5 +1,5 @@
 
-The code for the manuscript of "Large-Scale Multi-Omics Profiling Reveals Environmental and Evolutionary Drivers in Phylogeographic Diversity of Fungal Specialized Metabolism ".
+The code for the manuscript of "Large-scale multi-omics profiling reveals environmental and evolutionary drivers of fungal phylogeographic and metabolic diversity".
 
 
 # Figure 1. 
@@ -18,13 +18,13 @@ The code for the manuscript of "Large-Scale Multi-Omics Profiling Reveals Enviro
 
 # The evolutionary tree in Figure 4a was drawn using the Itol web tool, and the heat map in the upper left corner was drawn using the metabolome analysis tool Metaboanalyst (https://www.metaboanalyst.ca/). Figures 4b and 4c were drawn using the gene-rank-dotplot.R script we provided. Figure 4d-i was drawn on the Dr.Tom cloud platform (BGI, shenzhen). 
 
+
 # Figure 5.
 
-# Figure 5a, b was drawn using Plink software and the cmplot R package. It is easy to draw according to the software instructions and the default parameters provided. Figure 5e, f-i were drawn using the metabolome analysis tool Metaboanalyst (https://www.metaboanalyst.ca/). Figure 5j was calculated using XP-CLR software and the Manhattan plot was drawn using the ggplot2 package. Figure 5j was calculated using XP-CLR software and the Manhattan plot was drawn using the cmplot R package. Figure5k was generated using the data visualization tool Hiplot(https://hiplot.cn/basic/circular-barplot). 
-
+# Figure 5a was drawn using ggplot2, and Figure 6b was drawn using Adobe illustrator software.
 # Figure 6.
 
-# Figure 6a was drawn using ggplot2, and Figure 6b was drawn using Adobe illustrator software.
+# Figure 6a, b was drawn using Plink software and the cmplot R package. It is easy to draw according to the software instructions and the default parameters provided. Figure 5e, f-i were drawn using the metabolome analysis tool Metaboanalyst (https://www.metaboanalyst.ca/). Figure 5j was calculated using XP-CLR software and the Manhattan plot was drawn using the ggplot2 package. Figure 5j was calculated using XP-CLR software and the Manhattan plot was drawn using the cmplot R package. Figure5k was generated using the data visualization tool Hiplot(https://hiplot.cn/basic/circular-barplot). 
 
 # Figure 7.
 
